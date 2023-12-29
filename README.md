@@ -361,9 +361,10 @@ Figma
 }
 ```
 ## OUTPUT:
-![out1](https://github.com/Bhagath118/event-registration/assets/147473779/5257df15-3703-407a-9fbe-3ac72f90869a)
-![out2](https://github.com/Bhagath118/event-registration/assets/147473779/b0b074ee-779b-4832-b7c6-4c86f949cf12)
-![out3](https://github.com/Bhagath118/event-registration/assets/147473779/d27cfb00-db4b-4469-90fd-fd77e1234ea4)
+![Screenshot 2023-12-29 092940](https://github.com/dhandeeswaran2005/event-registration/assets/147139188/2a1869f8-1a54-4d02-8ccb-1452602e5b0f)
+![Screenshot 2023-12-29 092951](https://github.com/dhandeeswaran2005/event-registration/assets/147139188/d8b0a3a7-8708-4571-9088-b3e8cf1baaf8)
+![Screenshot 2023-12-29 093001](https://github.com/dhandeeswaran2005/event-registration/assets/147139188/3e295f10-e44f-4c57-a962-4523b8a0d8cc)
+
 
 
 ## Result:
